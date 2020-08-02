@@ -1,5 +1,3 @@
-# Python-Programming-With EDUBLOCKS
-
 # Learn Python Programming with EDUBLOCKS
 
 This document is focused on using Edublocks to learn the Python programming language and includes a review of the fundamentals of programming using EduBlock including: 
